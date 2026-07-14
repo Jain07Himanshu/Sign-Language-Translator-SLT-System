@@ -66,22 +66,22 @@ Sign language is a complete, natural language used by an estimated 500,000–2 m
 
 ## 🖐️ Supported Gestures
 
-| Key | Gesture | Description |
-|-----|---------|--------------|
-| 1 | HELLO | Waving hand near the forehead |
-| 2 | YES | Fist nodding up and down |
-| 3 | NO | Index and middle finger tapping against the thumb |
-| 4 | GOODBYE | Open palm waving side to side |
-| 5 | THANKYOU | Flat hand moving outward from chin |
-| 6 | WELCOME | Open arm gesture toward another person |
-| 7 | PLEASE | Flat hand, circular motion on the chest |
-| 8 | ILOVEYOU | ASL I-L-Y handshape (pinky, index, thumb extended) |
-| 9 | SORRY | Closed fist, circular motion over the heart |
-| h | HOWAREYOU | Two-finger point outward, questioning expression |
-| g | GOOD | Flat hand moving forward from chin |
+| Key | Gesture |
+|-----|---------|
+| 1 | HELLO |
+| 2 | YES |
+| 3 | NO |
+| 4 | GOODBYE |
+| 5 | THANKYOU |
+| 6 | WELCOME |
+| 7 | PLEASE |
+| 8 | ILOVEYOU |
+| 9 | SORRY |
+| h | HOWAREYOU |
+| g | GOOD |
 
 Each gesture class was trained on a minimum of 50 labeled samples.
-
+You can Delete Preivious samples of Gesture, and Train New Samples by Model.
 ---
 
 ## ⚙️ Installation
