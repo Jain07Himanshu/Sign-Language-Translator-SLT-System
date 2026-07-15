@@ -172,7 +172,7 @@ Developed as an Applied Physics project (BSL2012: Semiconductor Physics Lab), De
 - Om Sameer Jadhav
 - Himanshu Bhupendra Jain
 - Himanshu Paras Jain
-
+- Nikhil Dhormale
 ---
 
 ## 📚 References
