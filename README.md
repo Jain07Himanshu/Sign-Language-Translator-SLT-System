@@ -166,12 +166,9 @@ python hand_tracker.py
 Developed as an Applied Physics project (BSL2012: Semiconductor Physics Lab), Department of Humanities & Applied Sciences, **A.P. Shah Institute of Technology, Thane** (AY 2025–26).
 
 **Contributors:**
-- Suhani Hiwale
+- Rishikesh Deherkar
 - Aayush Humne
-- Om Eknath Jadhav
-- Om Sameer Jadhav
 - Himanshu Bhupendra Jain
-- Himanshu Paras Jain
 - Nikhil Dhormale
 ---
 
